@@ -1,10 +1,15 @@
-![nevv](http://xzzulz.github.io/nevv/img/nevv.svg)
+![nevv](https://lignx.github.io/nevv/img/nevv.svg)
+
+## Note
+This is an outdated, learning project, from my early career.\
+Have improved significantly, since then.\
+(https://xiggfi.web.app)
 
 # Nevv
 
 Polymer exploration/demo app. Nevv is a fictional news reader.
 
-The app is here: [Nevv](http://xzzulz.github.io/nevv)
+The app is here: (https://lignx.github.io/nevv)
 
 ## Polymer and web components
 
